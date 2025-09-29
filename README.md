@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# swiftdocs
-=======
-
 
 # 📚 SwiftDocs — Automated Academic Document Management & PDF Generation System
 
@@ -181,4 +177,3 @@ App runs at: **[http://localhost:3000](http://localhost:3000)**
 **Author:** Priyanga Selvaperumal 
 
 
->>>>>>> bcdaedf50a404fe190cdb237999591116337e85a
