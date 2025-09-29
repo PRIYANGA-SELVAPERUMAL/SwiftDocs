@@ -73,7 +73,7 @@ Student → submits request → Verifier → reviews & approves/rejects → Admi
 ---
 
 <a name="screenshots"></a> 
-## 📸 Screenshots
+## 📸 Screenshots / Demo
 
 ## 🔑 Login Page
 <img width="1918" height="945" alt="image" src="https://github.com/user-attachments/assets/f44fe659-3541-496a-b871-8fb9d40df597" />
@@ -85,6 +85,7 @@ Student → submits request → Verifier → reviews & approves/rejects → Admi
 
 ### 🔹Request Submission Form 
 <img width="1914" height="942" alt="image" src="https://github.com/user-attachments/assets/7560cfb3-1efa-42b8-b6b2-78e5185adccd" />
+
 ### 🔹Tracking Requests Page  
 <img width="1916" height="945" alt="image" src="https://github.com/user-attachments/assets/343a6661-f8de-446d-b8ff-7ae1c9bfe306" />
 <img width="1916" height="942" alt="image" src="https://github.com/user-attachments/assets/3ed00374-7a2f-4bdf-b7b5-7daf14a6f48d" />
