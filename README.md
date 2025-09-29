@@ -15,7 +15,6 @@
 7. [Setup & Installation](#setup--installation)  
 8. [Usage](#usage)  
 9. [Future Enhancements](#future-enhancements)  
-10. [Author & License](#author--license)  
 
 ---
 
