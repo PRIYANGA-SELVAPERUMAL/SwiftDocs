@@ -73,34 +73,47 @@ Student → submits request → Verifier → reviews & approves/rejects → Admi
 ---
 
 <a name="screenshots"></a> 
-## 📸 Screenshots / Demo  
-*(Replace with your actual screenshots, stored in `assets/` folder)*
+## 📸 Screenshots
 
-- **Student Dashboard**  
- Login Page
- 
-Student Login  Verifier Login   
-Admin Login   
+## 🔑 Login Page
+<img width="1918" height="945" alt="image" src="https://github.com/user-attachments/assets/f44fe659-3541-496a-b871-8fb9d40df597" />
+
+## 👩‍🎓 Student Views
+
+### 🔹Student Dashboard 
+<img width="1919" height="947" alt="image" src="https://github.com/user-attachments/assets/d3899f42-1537-4faa-908c-d5924b88141c" />
+
+### 🔹Request Submission Form 
+<img width="1914" height="942" alt="image" src="https://github.com/user-attachments/assets/7560cfb3-1efa-42b8-b6b2-78e5185adccd" />
+### 🔹Tracking Requests Page  
+<img width="1916" height="945" alt="image" src="https://github.com/user-attachments/assets/343a6661-f8de-446d-b8ff-7ae1c9bfe306" />
+<img width="1916" height="942" alt="image" src="https://github.com/user-attachments/assets/3ed00374-7a2f-4bdf-b7b5-7daf14a6f48d" />
+
+## ✅ Verifier Views
+
+### 🔹Verifier Dashboard 
+<img width="1919" height="947" alt="image" src="https://github.com/user-attachments/assets/360ee746-322f-4d5c-9d26-199f525ed46a" />
+
+### 🔹Pending Requests
+<img width="1919" height="953" alt="image" src="https://github.com/user-attachments/assets/9aed7767-bed4-4da6-a729-5ac9847320e2" />
+
+### 🔹Reviewed Requests
+
+  <img width="1916" height="945" alt="image" src="https://github.com/user-attachments/assets/d43e1f08-4b12-45b3-beb4-2bce80721bf5" />
+
+### 🔹Rejected Requests
+<img width="1919" height="941" alt="image" src="https://github.com/user-attachments/assets/7c23f5be-3b67-405c-91c1-fd19b545e6ee" />
 
 
 
+## 🛠️ Admin Dashboard
+ <img width="1917" height="944" alt="image" src="https://github.com/user-attachments/assets/3e6da069-89e2-4fa4-a010-74811fb8b4e0" />
 
 
-Invalid Login Attempt
- 
+## 📜 Generated Certificate (PDF) 
 
+<img width="1914" height="938" alt="image" src="https://github.com/user-attachments/assets/1168b1dd-ac27-41cb-93c4-f9663bd133fc" />
 
-- **Request Submission Form**  
-  ![Request Form](assets/request_form.png)
-
-- **Verifier Dashboard**  
-  ![Verifier Dashboard](assets/verifier.png)
-
-- **Admin Dashboard**  
-  ![Admin Dashboard](assets/admin.png)
-
-- **Generated Certificate (PDF)**  
-  ![Certificate PDF](assets/certificate.png)
 
 ---
 
