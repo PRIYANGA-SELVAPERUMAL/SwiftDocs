@@ -77,7 +77,18 @@ Student → submits request → Verifier → reviews & approves/rejects → Admi
 *(Replace with your actual screenshots, stored in `assets/` folder)*
 
 - **Student Dashboard**  
-  ![Student Dashboard](assets/student_dashboard.png)
+ Login Page
+ 
+Student Login  Verifier Login   
+Admin Login   
+
+
+
+
+
+Invalid Login Attempt
+ 
+
 
 - **Request Submission Form**  
   ![Request Form](assets/request_form.png)
