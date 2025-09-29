@@ -11,7 +11,7 @@
 3. [Features](#features)  
 4. [Architecture & Workflow](#architecture--workflow)  
 5. [Tech Stack](#tech-stack)  
-6. [Screenshots / Demo](#screenshots--demo)  
+6. [Demo Screenshots](#screenshots--demo)  
 7. [Setup & Installation](#setup--installation)  
 8. [Usage](#usage)  
 9. [Future Enhancements](#future-enhancements)  
@@ -73,7 +73,7 @@ Student → submits request → Verifier → reviews & approves/rejects → Admi
 ---
 
 <a name="screenshots"></a> 
-## 📸 Screenshots / Demo
+## 📸 Demo Screenshots 
 
 ## 🔑 Login Page
 <img width="1918" height="945" alt="image" src="https://github.com/user-attachments/assets/f44fe659-3541-496a-b871-8fb9d40df597" />
