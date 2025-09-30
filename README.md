@@ -11,7 +11,7 @@
 3. [Features](#features)  
 4. [Architecture & Workflow](#architecture--workflow)  
 5. [Tech Stack](#tech-stack)  
-6. [Demo Screenshots](#screenshots--demo)  
+6. [Demo Screenshots](#screenshots-demo)  
 7. [Setup & Installation](#setup--installation)  
 8. [Usage](#usage)  
 9. [Future Enhancements](#future-enhancements)  
